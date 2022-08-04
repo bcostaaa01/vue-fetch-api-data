@@ -1,6 +1,6 @@
 <template>
 <div>
-<button @click="logData">Display data</button>
+<h1>Data from JSON Placeholder API</h1>
 {{result}}
 </div>
 </template>
